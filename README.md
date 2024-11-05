@@ -9,7 +9,6 @@ This project is a basic HTML/CSS/JavaScript mockup of an Amazon-like e-commerce 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 ```
